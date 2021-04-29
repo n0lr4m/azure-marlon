@@ -21,4 +21,4 @@ Links for documentation
 
 ### Links
 * [https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization](https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization)
-* 
+* https://salmon-field-0a06b3d10.azurestaticapps.net/
