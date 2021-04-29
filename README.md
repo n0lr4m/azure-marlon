@@ -27,4 +27,4 @@ Links for documentation
 * [https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch)
 * [https://medium.com/dev-genius/continuous-deployment-for-mkdocs-with-github-actions-7dceec87f0ea](https://medium.com/dev-genius/continuous-deployment-for-mkdocs-with-github-actions-7dceec87f0ea)
 * [https://bluegenes.github.io/mkdocs-github-actions/](https://bluegenes.github.io/mkdocs-github-actions/)
-* 
+* [https://squidfunk.github.io/mkdocs-material/publishing-your-site/](https://squidfunk.github.io/mkdocs-material/publishing-your-site/)
