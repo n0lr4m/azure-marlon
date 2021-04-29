@@ -22,3 +22,7 @@ Links for documentation
 ### Links
 * [https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization](https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization)
 * https://salmon-field-0a06b3d10.azurestaticapps.net/
+
+## Github Actions
+* [https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch)
+* 
