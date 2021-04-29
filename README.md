@@ -25,4 +25,5 @@ Links for documentation
 
 ## Github Actions
 * [https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch)
+* [https://medium.com/dev-genius/continuous-deployment-for-mkdocs-with-github-actions-7dceec87f0ea](https://medium.com/dev-genius/continuous-deployment-for-mkdocs-with-github-actions-7dceec87f0ea)
 * 
