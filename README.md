@@ -23,6 +23,9 @@ Links for documentation
 * [https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization](https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization)
 * https://salmon-field-0a06b3d10.azurestaticapps.net/
 
+#### Learning Path
+* [https://docs.microsoft.com/en-us/learn/paths/azure-static-web-apps/](https://docs.microsoft.com/en-us/learn/paths/azure-static-web-apps/)
+
 ## Github Actions
 * [https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-another-github-pages-branch-publish_branch)
 * [https://medium.com/dev-genius/continuous-deployment-for-mkdocs-with-github-actions-7dceec87f0ea](https://medium.com/dev-genius/continuous-deployment-for-mkdocs-with-github-actions-7dceec87f0ea)
